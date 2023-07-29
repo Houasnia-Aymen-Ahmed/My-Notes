@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "242244284205",
+    "project_id": "albert-notes",
+    "storage_bucket": "albert-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242244284205:android:b7172e46b72dbc24b76da4",
+        "android_client_info": {
+          "package_name": "com.hello.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242244284205-aar7motr709ff2ils8sgjqqnu43i143g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEkVAJ7GQ8HZowQKs8qjQS3dg6z-Tjpa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242244284205-aar7motr709ff2ils8sgjqqnu43i143g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242244284205-9cnrk200dv2gakt00gtl5gm4lmq5cl64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hello.notes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
